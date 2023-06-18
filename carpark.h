@@ -1,6 +1,6 @@
 #ifndef CARPARK_H
 #define CARPARK_H 
-#include "customers.h"
+#include "customer.h"
 #include <numeric>
 
 /* From customer bookings determines the number cars present in the carpark and revenue generated*/

@@ -1,7 +1,7 @@
 #include <assert.h>
 #include <fstream>
-#include "generate_subgroups.h"
-#include "carpark.h"
+#include "../generate_subgroups.h"
+#include "../carpark.h"
 
 int main(){
     // Calculate the expected time a carpark of capacity 50 FIRST reaches capacity.

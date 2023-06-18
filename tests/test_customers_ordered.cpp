@@ -1,5 +1,5 @@
 #include <assert.h>
-#include "customers.h"
+#include "../customer.h"
 
 void test_order(Customers &C){
     // calculate the average difference in time;

@@ -1,5 +1,5 @@
 #include <assert.h>
-#include "carpark.h"
+#include "../carpark.h"
 
 // First check the generate car present functions work
 int booking_in_carpark(const Booking &x, int time_interval){ 

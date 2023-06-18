@@ -1,7 +1,7 @@
 #include <assert.h>
 #include <fstream>
-#include "generate_subgroups.h"
-#include "carpark.h"
+#include "../generate_subgroups.h"
+#include "../carpark.h"
 
 int main(){
     // Calculate the expected number of cars from the mean of the random generation

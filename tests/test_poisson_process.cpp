@@ -1,5 +1,5 @@
 #include <assert.h>
-#include "customers.h"
+#include "../customer.h"
 
 void test_interarrivaltime(double theta, std::vector<double> &intertimes){
 

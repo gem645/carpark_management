@@ -1,7 +1,7 @@
 #include <assert.h>
 #include <fstream>
-#include "generate_subgroups.h"
-#include "carpark.h"
+#include "../generate_subgroups.h"
+#include "../carpark.h"
 
 int main(){
     // Calculate the total revenue of carpark of limited capacity time (10,...,100) over both business and leisure custoemrs.

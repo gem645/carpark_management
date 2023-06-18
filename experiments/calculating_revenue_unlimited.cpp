@@ -1,7 +1,7 @@
 #include <assert.h>
 #include <fstream>
-#include "generate_subgroups.h"
-#include "carpark.h"
+#include "../generate_subgroups.h"
+#include "../carpark.h"
 
 int main(){
     // Calculate the expected number of cars at time =150, absolute error (standard deviation), 
